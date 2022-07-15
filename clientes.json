@@ -1,0 +1,14 @@
+[{
+  "rut": "12345678-9",
+  "Equipos": [
+    {
+      "Tipo": "Notebook",
+      "id_equipo": 3000,
+      "Estado": "Ingresado",
+      "Diagnostico": "aun no disponible",
+      "codigo de serie": "a03hf928ADt7458ASFoo",
+      "Marca": "HP",
+      "Modelo": "ENVY 15 X360"
+    }
+  ]
+}]
