@@ -1,4 +1,4 @@
-[{
+{ "posts":[{
   "Nombre Cliente": "",
   "Apellido Cliente": "",
   "Equipos": [
@@ -58,4 +58,4 @@
       "Modelo": "IDEPAD 303s"
     }
   ]
-}]
+}]}
