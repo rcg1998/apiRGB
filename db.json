@@ -1,0 +1,61 @@
+[{
+  "Nombre Cliente": "",
+  "Apellido Cliente": "",
+  "Equipos": [
+    {
+      "Tipo": "Notebook",
+      "id_equipo": 3000,
+      "Estado": "Ingresado",
+      "Diagnostico": "aun no disponible",
+      "codigo de serie": "a03hf928ADt7458ASFoo",
+      "Marca": "HP",
+      "Modelo": "ENVY 15 X360"
+    },
+    {
+      "Tipo": "Desktop",
+      "id_equipo": 3001,
+      "Estado": "Ingresado",
+      "Diagnostico": "aun no disponible",
+      "codigo de serie": "a03hf928ADt7458ASFoo",
+      "Marca": "HP",
+      "Modelo": "ENVY 15 X360"
+    }
+  ]
+},{
+  "Nombre Cliente": "Anibal",
+  "Apellido Cliente": "Cortes",
+  "Equipos": [
+    {
+      "Tipo": "Notebook",
+      "id_equipo": 3002,
+      "Estado": "Evaluacion",
+      "Diagnostico": "aun no disponible",
+      "codigo de serie": "a03hf928AghyasASFoo",
+      "Marca": "HP",
+      "Modelo": "ENVY 13 X360"
+    },
+    {
+      "Tipo": "Desktop",
+      "id_equipo": 3003,
+      "Estado": "en Reparacion",
+      "Diagnostico": "Placa madre mala, tarjeta de video Vbios Breaking",
+      "codigo de serie": "Sin serie",
+      "Marca": "Armado",
+      "Modelo": "no tiene"
+    }
+  ]
+},{
+  "Nombre Cliente": "Gabriela",
+  "Apellido Cliente": "Diaz",
+  "Equipos": [
+    {
+      "Tipo": "Notebook",
+      "id_equipo": 3004,
+      "Estado": "en Reparacion",
+      "Diagnostico": "Procesador quemado",
+      "codigo de serie": "107k-asdf000:9001",
+      "Marca": "Lenovo",
+      "Modelo": "IDEPAD 303s"
+    }
+  ]
+}]
