@@ -1,5 +1,4 @@
-{
-  "posts":[{
+[{
   "Nombre Cliente": "",
   "Apellido Cliente": "",
   "Equipos": [
@@ -60,4 +59,3 @@
     }
   ]
 }]
-}
